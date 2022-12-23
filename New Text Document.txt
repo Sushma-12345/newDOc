@@ -6,3 +6,4 @@ git branch
 git log
 git staus
 aghla
+git pull
