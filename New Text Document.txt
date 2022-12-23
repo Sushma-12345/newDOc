@@ -7,3 +7,5 @@ git log
 git staus
 aghla
 git pull
+checking pull cmd 
+
