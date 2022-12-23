@@ -4,3 +4,5 @@ git clone
 git checkout branchname
 git branch
 git log
+git staus
+aghla
